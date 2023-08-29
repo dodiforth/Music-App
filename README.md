@@ -1,14 +1,14 @@
 # Music App
-Learning Point : 
-  - TextField + TableView + NavigationBar
-  - Custom Delegate
-  - Use of Notification (move a view slightly when the virtual keyboard slide-up)
-  - (Touchable) imageView and use of gesture 
-  - Using UIPickerView 
+## API
+iTunes Search API : https://performance-partners.apple.com/search-api
 
 * Plaform: iOS
 * Language: Swift
 * Framework: UIKit
+* Others: 
+  - TableView + Networking + Search Controller
+  - Nib(Xib) file for cell detail
+  - CollectionView
 
 ## Requirements
 * iOS 14.0 +

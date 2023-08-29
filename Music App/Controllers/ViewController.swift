@@ -53,7 +53,7 @@ class ViewController: UIViewController {
     //Setup for data
     func setupData() {
         //Start Networking
-        networkManager.fetchMusic(searchTerm: "blackpink") { result in
+        networkManager.fetchMusic(searchTerm: "jazz") { result in
             print(#function)
             switch result {
             case .success(let musicDatas):
