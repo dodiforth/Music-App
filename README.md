@@ -1,6 +1,4 @@
 # Music App
-## API
-iTunes Search API : https://performance-partners.apple.com/search-api
 
 * Plaform: iOS
 * Language: Swift
@@ -9,6 +7,9 @@ iTunes Search API : https://performance-partners.apple.com/search-api
   - TableView + Networking + Search Controller
   - Nib(Xib) file for cell detail
   - CollectionView
+  
+## API
+iTunes Search API : https://performance-partners.apple.com/search-api
 
 ## Requirements
 * iOS 14.0 +
